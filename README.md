@@ -15,9 +15,9 @@ What is the purpose of this program(s)?
 The purpose of the programs is to learn Python over a series of tasks, starting by getting used to Copilot GitHub while trying to use the material learned in the class to solve the assignment task. 
 
 What does the program do, including what it takes for input, and what it gives as output?
-The code developed in the penguin_type_type2.py file answers the question, How many unique species of penguin and regions are used in this dataset? The input for this task is the column 1 and 2. The output is the number of unique species of penguins and regions. For it to work please download the csv file palmerpenguins_size. 
+ASSIGNMENT ONE: The code developed in the penguin_type_type2.py file answers the question, How many unique species of penguin and regions are used in this dataset? The input for this task is the column 1 and 2. The output is the number of unique species of penguins and regions. For it to work please download the csv file palmerpenguins_size. 
 
-The code developed in the pengiun_hatch_dates_range.py file answers the question, What is the date range for the eggs in this dataset? The input for this task is the dataset column 9 which displaces a list of dates of penguin eggs. The output is the range from the list of eggs given to the program. For it to work please download the csv file palmerpenguins_litter. 
+ASSIGNMENT TWO: The code developed in the pengiun_hatch_dates_range.py file answers the question, What is the date range for the eggs in this dataset? The input for this task is the dataset column 9 which displaces a list of dates of penguin eggs. The output is the range from the list of eggs given to the program. For it to work please download the csv file palmerpenguins_litter. 
 
 How do you use the program?
 You can test out the program by downloading the csv. files and change the file path. Then all you need to do is run the the program in the terminal and it should work. 
